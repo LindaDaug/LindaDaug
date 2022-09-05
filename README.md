@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Linda
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# , java and automated testing
 - 📫 How to reach me: mondebell@gmail.com
 - --->>>
 
